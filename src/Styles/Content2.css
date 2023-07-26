@@ -1,0 +1,47 @@
+.cnt2{
+    width: 80vw;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 370px;
+    margin-top: 60px;
+}
+.cnt2 .dtls2{
+    width: 400px;
+    height: 300px;
+    background: aliceblue;
+    position: relative;
+    right: 200px;
+}
+.dtls2 img{
+    width: 100px;
+    height: 70px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.dtls2 .para{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.dtls2 p b{
+    color: orangered;
+    font-size: 23px;
+    font-weight: bold ;
+}
+.dtls2 button{
+    color: orangered;
+    border: none;
+    border-bottom: 2px solid orangered;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: transparent;
+    margin-top: 20px;
+    transition: 0.5s linear;
+}
+.dtls2 button:hover{
+    border-top: 2px solid orangered;;
+}

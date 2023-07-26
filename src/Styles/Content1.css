@@ -1,0 +1,38 @@
+.cnt1{
+    position: relative;
+    left: 300px;
+    width: 70vw;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dtls{
+    margin-left: 40px;
+}
+.dtls h3{
+font-style: italic;
+size: 50px;
+color: orangered;
+}
+.dtls p b{
+    color: orangered;
+}
+.dtls p span{
+    color: orangered;
+    font-weight: lighter;
+}
+.dtls button{
+    color: orangered;
+    border: none;
+    border-bottom: 2px solid orangered;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: transparent;
+    margin-top: 20px;
+    transition: 0.5s linear;
+}
+.dtls button:hover{
+    border-top: 2px solid orangered;;
+}

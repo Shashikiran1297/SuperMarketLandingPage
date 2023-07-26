@@ -1,0 +1,27 @@
+{
+
+    "slide":[
+        {
+          "id":1,
+          "slide":"https://images.yourstory.com/cs/5/f02aced0d86311e98e0865c1f0fe59a2/indian-farmer-1610471656527.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces"
+         
+        },
+        {
+            "id":2,
+            "slide":"https://images.yourstory.com/cs/5/f02aced0d86311e98e0865c1f0fe59a2/indian-farmer-1610471656527.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces"
+          },
+          {
+            "id":3,
+            "slide":"https://images.yourstory.com/cs/5/f02aced0d86311e98e0865c1f0fe59a2/indian-farmer-1610471656527.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces"
+          },
+          {
+            "id":4,
+            "slide":"https://images.yourstory.com/cs/5/f02aced0d86311e98e0865c1f0fe59a2/indian-farmer-1610471656527.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces"
+          },
+          {
+            "id":5,
+            "slide":"https://images.yourstory.com/cs/5/f02aced0d86311e98e0865c1f0fe59a2/indian-farmer-1610471656527.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces"
+          }
+          
+    ]
+}
